@@ -56,8 +56,8 @@ I love the entire process of developing software projects. Exploring through new
 </br>
 -->
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<!--![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)-->
+![Flutter](https://img.shields.io/badge/flutter-%23000000.svg?style=for-the-badge&logo=flutter&logoColor=blue)
+![Dart](https://img.shields.io/badge/dart-%23000000.svg?style=for-the-badge&logo=dart&logoColor=blue)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <!--![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)-->
@@ -86,3 +86,7 @@ I love the entire process of developing software projects. Exploring through new
 <!--
 [![@undertaj's Holopin board](https://holopin.me/undertaj)](https://holopin.io/@undertaj)
 -->
+
+## 📈 Leetcode Stats
+
+<p><img align="center" src="https://leetcode-stats.vercel.app/api?username=lishasingh&theme=Light" alt="undertaj" </p>
