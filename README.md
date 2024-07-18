@@ -79,10 +79,13 @@ I love the entire process of developing software projects. Exploring through new
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=undertaj&theme=vue"/>
 </p>
-
-[![Lisha's github stats](https://github-readme-stats.vercel.app/api?username=undertaj)](https://github.com/undertaj)
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=undertaj&" alt="undertaj" />
-
+<!-- <br> -->
+<p>
+<img align = "left" width = "45%" src="https://github-readme-stats.vercel.app/api?username=undertaj" alt = "undertaj" />
+<img align="right" width = "49%" src="https://github-readme-streak-stats.herokuapp.com/?user=undertaj&" alt="undertaj" />
+<!--   <br> -->
+</p>
+<br>
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=undertaj&show_icons=true&locale=en" alt="undertaj" /></p> -->
@@ -90,6 +93,10 @@ I love the entire process of developing software projects. Exploring through new
 <!--
 [![@undertaj's Holopin board](https://holopin.me/undertaj)](https://holopin.io/@undertaj)
 -->
-<img align="left" src="https://leetcode-stats.vercel.app/api?username=lishasingh&theme=Light" alt="undertaj" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=undertaj&show_icons=true&locale=en&layout=compact" alt="undertaj" />
+<p>
+<img align="left" width ="55%" src="https://leetcode-stats.vercel.app/api?username=lishasingh&theme=Light" alt="undertaj" />
+
+<img align="right"  width ="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=undertaj&show_icons=true&locale=en&layout=compact" alt="undertaj" />
+</p>
+<br>
