@@ -74,19 +74,22 @@ I love the entire process of developing software projects. Exploring through new
 - [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
 -->
 
-## 📈 GitHub Stats 
+## 📈 GitHub & Leetcode Stats 
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=undertaj&theme=vue"/>
+</p>
 
 [![Lisha's github stats](https://github-readme-stats.vercel.app/api?username=undertaj)](https://github.com/undertaj)
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=undertaj&" alt="undertaj" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=undertaj&show_icons=true&locale=en&layout=compact" alt="undertaj" /></p>
+
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=undertaj&show_icons=true&locale=en" alt="undertaj" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=undertaj&" alt="undertaj" /></p>
 <!--
 [![@undertaj's Holopin board](https://holopin.me/undertaj)](https://holopin.io/@undertaj)
 -->
+<img align="left" src="https://leetcode-stats.vercel.app/api?username=lishasingh&theme=Light" alt="undertaj" />
 
-## 📈 Leetcode Stats
-
-<p><img align="center" src="https://leetcode-stats.vercel.app/api?username=lishasingh&theme=Light" alt="undertaj" </p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=undertaj&show_icons=true&locale=en&layout=compact" alt="undertaj" />
